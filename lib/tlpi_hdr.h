@@ -12,7 +12,10 @@
 #include "unistd.h"
 #include "errno.h"
 #include "string.h"
+
 #include "get_num.h"
 
+
+#include "error_functions"
 
 #endif //UNTITLED1_TLPI_HDR_H
